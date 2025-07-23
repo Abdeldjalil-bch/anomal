@@ -1,0 +1,23 @@
+# Requirements pour l'Application d'Analyse des Anomalies
+# Compatible avec Python 3.8+
+
+# Framework principal
+streamlit==1.29.0
+
+# Manipulation des données
+pandas==2.1.4
+numpy==1.24.3
+
+# Visualisation
+plotly==5.17.0
+
+# Traitement des fichiers Excel
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+
+# Utilitaires
+python-dateutil==2.8.2
+
+# Dépendances système (généralement auto-installées)
+pytz>=2023.3
+six>=1.16.0
